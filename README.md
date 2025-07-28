@@ -62,7 +62,8 @@ The model achieved strong performance on both training and validation sets:
 
 Smooth and stable loss curves indicate successful training with no major overfitting:
 
-![Loss](model_results/loss.png)
+<img width="547" height="461" alt="loss" src="https://github.com/user-attachments/assets/07cf62d4-3190-46fa-93e7-44fd6a95f1fd" />
+
 
 ---
 
@@ -77,18 +78,6 @@ The confusion matrix shows the classification performance on the test dataset:
 | **Accuracy**       | ~98.7%  |
 | **F1 Score**       | 0.98    |
 | **Precision/Recall** | High for both classes |
-
----
-
-## 📂 Project Structure
-
-```
-.
-├── dataset/               # Raw data folders (normal/ and lumpy/)
-├── model_train.ipynb      # Jupyter notebook with all processing and training
-├── model_results          # Images that show the model's performance and accuracy
-└── README.md              # Project documentation
-```
 
 ---
 
