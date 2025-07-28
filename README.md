@@ -119,7 +119,7 @@ jupyter notebook model_train.ipynb
 
 ## 👤 Author
 
-This project was developed as part of a University course and to explore the possibilities of machine learning on the farming sector.
+This project was developed as part of a University Master's course and to explore the possibilities of machine learning on the farming sector.
 
 ---
 
