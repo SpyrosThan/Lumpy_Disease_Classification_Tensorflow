@@ -1,4 +1,3 @@
-```markdown
 # 🐄 Lumpy Skin Disease Classification using TensorFlow
 
 ## 🧠 Overview
@@ -127,4 +126,4 @@ This project was developed as part of a University course and to explore the pos
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
+
