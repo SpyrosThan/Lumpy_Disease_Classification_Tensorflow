@@ -62,8 +62,7 @@ The model achieved strong performance on both training and validation sets:
 
 Smooth and stable loss curves indicate successful training with no major overfitting:
 
-<img width="547" height="461" alt="loss" src="https://github.com/user-attachments/assets/07cf62d4-3190-46fa-93e7-44fd6a95f1fd" />
-
+![Loss](model_results/loss.png)
 
 ---
 
