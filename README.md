@@ -53,7 +53,7 @@ A simple CNN was implemented using TensorFlow/Keras, with the following componen
 
 The model achieved strong performance on both training and validation sets:
 
-![Accuracy](accuracy.png)
+![Accuracy](model_results/accuracy.png)
 
 ---
 
@@ -69,7 +69,7 @@ Smooth and stable loss curves indicate successful training with no major overfit
 
 The confusion matrix shows the classification performance on the test dataset:
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](model_results/confusion_matrix.png)
 
 | Metric             | Value   |
 |--------------------|---------|
