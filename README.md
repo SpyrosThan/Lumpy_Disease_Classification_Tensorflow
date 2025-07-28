@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 
-This project presents an image classification model for detecting **Lumpy Skin Disease (LSD)** in cows using a Convolutional Neural Network (CNN) built with TensorFlow.
+This project presents an image classification model for detecting **Lumpy Skin Disease ** in cows using a Convolutional Neural Network (CNN) built with TensorFlow.
 
 The model classifies cow skin images into two categories:
 
